@@ -1,0 +1,11 @@
+__pycache__/
+*.py[cod]
+.venv/
+env/
+.DS_Store
+.ipynb_checkpoints/
+*.log
+*.tmp
+02_raw_data/downloads/
+03_processed_data/generated/
+05_experiments/results/
