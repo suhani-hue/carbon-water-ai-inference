@@ -1,4 +1,4 @@
-# The Greenest Route Is Not Always the Best Route  
+# The Greenest Route Is Not Always the Best Route
 ## Failure Boundaries for Carbon- and Water-Aware AI Inference
 
 **Researcher:** Suhani Soni  
@@ -21,11 +21,14 @@ The repository will contain the protocol, code, configuration files, raw-data do
 ## Status
 
 - [x] Project structure created
-- [x] Protocol finalized
-- [x] Toy simulator implemented
-- [x] Tests passing
-- [x] Data documented
+- [ ] Protocol finalized
+- [ ] Toy simulator implemented
+- [ ] Tests passing
+- [ ] Data documented
+- [ ] Main experiments completed
+- [ ] Results analyzed
+- [ ] Manuscript completed
 
 ## Contact
 
-Suhani Soni — suhanisoni624@gmail.com
+Suhani Soni — [add email]
