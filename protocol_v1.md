@@ -1,0 +1,38 @@
+# Protocol v1
+
+## Status
+
+Draft — do not run the main experiment until reviewed.
+
+## Policies
+
+1. Latency-first
+2. Carbon-only
+3. Water-only
+4. Joint Pareto-aware
+
+## Primary outcomes
+
+- Modeled carbon emissions
+- Operational facility water
+- Electricity-generation-associated water
+- P95 and P99 latency
+- SLO-violation rate
+- Capacity-rejection rate
+- Completed requests
+- Carbon–water Pareto frontier
+
+## Initial design
+
+- 3-region toy simulator first
+- 4-region main simulation
+- Hourly time steps
+- Short and long request classes
+- Fixed capacity constraints
+- Reproducible random seeds
+- Forecast-error scenarios
+- Two water-accounting variants
+
+## Pre-registration rule
+
+Do not change the primary question, primary outcome, or policy definitions after seeing main results without recording the change and explaining its reason.
