@@ -1,4 +1,5 @@
-# Failure Boundaries for Carbon- and Water-Aware AI Inference
+# The Greenest Route Is Not Always the Best Route
+## Failure Boundaries for Carbon- and Water-Aware AI Inference
 
 **Researcher:** Suhani Soni  
 **School:** Children's Hope India Girls School  
@@ -15,20 +16,19 @@ This project models the operational stage of AI inference serving. It excludes e
 
 ## Reproducibility
 
-The repository contains the protocol, code, configuration files, raw-data documentation, processed data, experiment logs, analysis, figures, and manuscript. Results will not be added until experiments are actually completed.
+The repository will contain the protocol, code, configuration files, raw-data documentation, processed data, experiment logs, analysis, figures, and manuscript. Results will not be added until experiments are actually completed.
 
-## Project status
+## Status
 
 - [x] Project structure created
-- [x] Protocol finalized
-- [x] Toy simulator implemented
-- [x] Tests passing
-- [x] Data documented
-- [x] Main experiments completed
-- [x] Results analyzed
-- [x] Manuscript completed
+- [ ] Protocol finalized
+- [ ] Toy simulator implemented
+- [ ] Tests passing
+- [ ] Data documented
+- [ ] Main experiments completed
+- [ ] Results analyzed
+- [ ] Manuscript completed
 
 ## Contact
 
-Suhani Soni  
-Email: suhanisoni624@gmail.com
+Suhani Soni — [add email]
