@@ -31,4 +31,4 @@ The repository will contain the protocol, code, configuration files, raw-data do
 
 ## Contact
 
-Suhani Soni — [add email]
+Suhani Soni — suhanisoni624@gmail.com
